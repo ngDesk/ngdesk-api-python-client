@@ -2,7 +2,7 @@
 
 [ngDesk](http://www.ngdesk.com) supports 3rd - party developer integration. Simply generate an API key in the webapp and use the API key as the authentication token. 
 
-**Note:** The ngDesk API currentyl only supports POST requests.
+**Note:** The ngDesk API currently only supports POST requests.
 
 ## Generating an API Key
 
